@@ -10,7 +10,7 @@ int main()
     {
         printf("Please Enter the Number: ");
         scanf("%d",&in);
-        printf("\n%d",sum);
+        printf("    %d",sum);
         sum=sum+in;
 
     }
